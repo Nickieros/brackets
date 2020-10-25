@@ -1,3 +1,5 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
+    /** type boolean */
+    let bResult = false;
+    return bResult;
 }
